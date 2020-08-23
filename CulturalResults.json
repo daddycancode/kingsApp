@@ -1,0 +1,137 @@
+{
+    "artShow": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "Duchesne",
+            "third": "St Leo's",
+            "fourth": "Cromwell",
+            "fifth": "Grace",
+            "sixth": "Union",
+            "seventh": "IH",
+            "eighth": "St John's",
+            "ninth": "Women's",
+            "tenth": "Emmanuel"
+        }
+    ],
+    "bandfest": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "Grace",
+            "third": "Duchesne",
+            "fourth": "Union",
+            "fifth": "IH",
+            "sixth": "St Leo's",
+            "seventh": "Women's",
+            "eighth": "Cromwell",
+            "ninth": "St John's",
+            "tenth": "Emmanuel"
+        }
+    ],
+    "chess": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "Grace",
+            "third": "Duchesne",
+            "fourth": "IH",
+            "fifth": "Women's",
+            "sixth": "Union",
+            "seventh": "St John's",
+            "eighth": "Emmanuel",
+            "ninth": "Cromwell",
+            "tenth": "St Leo's"
+        }
+    ],
+    "choralfest": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "IH",
+            "third": "Grace",
+            "fourth": "Union",
+            "fifth": "Emmanuel",
+            "sixth": "Cromwell",
+            "seventh": "Duchesne",
+            "eighth": "St John's",
+            "ninth": "St Leo's",
+            "tenth": "Women's"
+        }
+    ],
+    "collegeIdol": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "Grace",
+            "third": "Emmanuel",
+            "fourth": "St Leo's",
+            "fifth": "Cromwell",
+            "sixth": "IH",
+            "seventh": "Union",
+            "eighth": "St John's",
+            "ninth": "Duchesne",
+            "tenth": "Women's"
+        }
+    ],
+    "dancefest": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "IH",
+            "third": "Union",
+            "fourth": "Cromwell",
+            "fifth": "St Leo's",
+            "sixth": "Emmanuel",
+            "seventh": "Women's",
+            "eighth": "St John's",
+            "ninth": "Grace",
+            "tenth": "Duchesne"
+        }
+    ],
+    "debating": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "St Leo's",
+            "third": "Grace",
+            "fourth": "IH",
+            "fifth": "Union",
+            "sixth": "Cromwell",
+            "seventh": "Women's",
+            "eighth": "St John's",
+            "ninth": "Duchesne",
+            "tenth": "Emmanuel"
+        }
+    ],
+    "oneActPlay": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "IH",
+            "third": "Grace",
+            "fourth": "Women's",
+            "fifth": "St Leo's",
+            "sixth": "Union",
+            "seventh": "Duchesne",
+            "eighth": "Cromwell",
+            "ninth": "Emmanuel",
+            "tenth": "St John's"
+        }
+    ],
+    "oratory": [
+        {
+            "id": 1,
+            "first": "King's",
+            "second": "St John's",
+            "third": "St Leo's",
+            "fourth": "IH",
+            "fifth": "Duchesne",
+            "sixth": "Women's",
+            "seventh": "Cromwell",
+            "eighth": "Union",
+            "ninth": "Emmanuel",
+            "tenth": "Grace"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "athletics": [
+        {
+            "id": 1,
+            "date": "2020-09-12 9:00",
+            "versus": "Athletics Day",
+            "location": "UQ Athletics Centre"
+        }
+    ],
+    "basketball": [
+        {
+            "id": 4,
+            "date": "2020-08-13 17:00",
+            "versus": "St Leo's",
+            "location": "Multi Court 1",
+        },
+        {
+            "id": 6,
+            "date": "2020-08-20 20:30",
+            "versus": "IH",
+            "location": "Multi Court 1",
+        },
+        {
+            "id": 8,
+            "date": "2020-08-27 18:10",
+            "versus": "St John's",
+            "location": "Multi Court 3",
+        }
+    ],
+    "cricket": [
+        {
+            "id": 13,
+            "date": "2020-08-23 11:00",
+            "versus": "Cromwell",
+            "location": "UQ Oval 1",
+        },
+        {
+            "id": 14,
+            "date": "2020-08-23 14:30",
+            "versus": "St Leo's",
+            "location": "UQ Oval 1",
+        }
+    ],
+    "rugby": [
+        {
+            "id": 5,
+            "date": "2020-08-19 18:00",
+            "versus": "Cromwell",
+            "location": "UQ Oval 7",
+        },
+        {
+            "id": 8,
+            "date": "2020-09-05 14:00",
+            "versus": "St Leo's",
+            "location": "UQ Oval 7",
+        }
+    ],
+    "soccer": [
+        {
+            "id": 4,
+            "date": "2020-08-16 08:00",
+            "versus": "Cromwell",
+            "location": "UQ Oval 9 South",
+        },
+        {
+            "id": 5,
+            "date": "2020-08-16 11:50",
+            "versus": "St Leo's",
+            "location": "UQ Oval 9 North",
+        },
+        {
+            "id": 7,
+            "date": "2020-08-22 09:10",
+            "versus": "St John's",
+            "location": "UQ Oval 9 South",
+        }
+    ]
+}
