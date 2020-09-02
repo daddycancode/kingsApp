@@ -45,6 +45,13 @@
             "date": "2020-08-27 18:10",
             "versus": "St John's",
             "location": "Multi Court 3",
+            "score": "24 - 32"
+        },
+        {
+            "id": 4,
+            "date": "2020-09-03 17:00",
+            "versus": "Emmanuel",
+            "location": "Multi Court 1",
             "score": ""
         }
     ],
@@ -54,14 +61,21 @@
             "date": "2020-08-23 11:00",
             "versus": "Cromwell",
             "location": "UQ Oval 1",
-            "score": ""
+            "score": "50 - 49"
         },
         {
             "id": 2,
             "date": "2020-08-23 14:30",
             "versus": "St Leo's",
             "location": "UQ Oval 1",
-            "score": ""
+            "score": "99 - 101"
+        },
+        {
+            "id": 3,
+            "date": "2020-08-29 11:00",
+            "versus": "Emmanuel",
+            "location": "UQ Oval 9",
+            "score": "94 - 97"
         }
     ],
     "rugby": [
@@ -74,7 +88,7 @@
         },
         {
             "id": 2,
-            "date": "2020-09-05 14:00",
+            "date": "2020-09-05 14:30",
             "versus": "St Leo's",
             "location": "UQ Oval 7",
             "score": ""
@@ -100,7 +114,7 @@
             "date": "2020-08-22 09:10",
             "versus": "St John's",
             "location": "UQ Oval 9 South",
-            "score": ""
+            "score": "2 - 0"
         }
     ]
 }
