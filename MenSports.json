@@ -5,7 +5,6 @@
             "date": "2020-09-12 9:00",
             "versus": "Athletics Day",
             "location": "UQ Athletics Centre",
-            "score": ""
         }
     ],
     "athleticsResult": [
@@ -99,6 +98,13 @@
             "id": 2,
             "date": "2020-09-05 14:30",
             "versus": "St Leo's",
+            "location": "UQ Oval 7",
+            "score": "20 - 19"
+        },
+        {
+            "id": 3,
+            "date": "2020-09-09 19:40",
+            "versus": "St John's",
             "location": "UQ Oval 7",
             "score": ""
         }
