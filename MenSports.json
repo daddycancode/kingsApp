@@ -102,36 +102,6 @@
             ]
         },
         {
-            "id": 5,
-            "sport": "Cross Country Men's",
-            "dataAll": [
-                {
-                    "id": 1,
-                    "date": "2020-09-12 09:00",
-                    "events": "Jumps",
-                    "first": "King's",
-                    "second": "St Leo's",
-                    "third": "Emmanuel",
-                    "fourth": "Cromwell",
-                    "fifth": "St John's",
-                    "sixth": "Union",
-                    "seventh": "IH"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-09-12 09:00",
-                    "events": "Throws",
-                    "first": "King's",
-                    "second": "IH",
-                    "third": "Emmanuel",
-                    "fourth": "St John's",
-                    "fifth": "St Leo's",
-                    "sixth": "Union",
-                    "seventh": "Cromwell"
-                }
-            ]
-        },
-        {
             "id": 6,
             "sport": "Hockey Men's",
             "data": [
