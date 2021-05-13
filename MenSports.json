@@ -1,7 +1,9 @@
 {
     "sports": [
         {
-            "afl": [
+            "id": 1,
+            "sport": "AFL Men's",
+            "data": [
                 {
                     "id": 1,
                     "date": "2020-09-12 9:00",
@@ -9,8 +11,12 @@
                     "location": "UQ Athletics Centre",
                     "score": ""
                 }
-            ],
-            "badminton": [
+            ]
+        },
+        {
+            "id": 2,
+            "sport": "Badminton Men's",
+            "data": [
                 {
                     "id": 1,
                     "date": "2020-08-13 17:00",
@@ -39,8 +45,12 @@
                     "location": "Multi Court 1",
                     "score": "31 - 14"
                 }
-            ],
-            "basketball": [
+            ]
+        },
+        {
+            "id": 3,
+            "sport": "Basketball Men's",
+            "data": [
                 {
                     "id": 1,
                     "date": "2020-08-23 11:00",
@@ -62,8 +72,12 @@
                     "location": "UQ Oval 9",
                     "score": "94 - 97"
                 }
-            ],
-            "cricket": [
+            ]
+        },
+        {
+            "id": 4,
+            "sport": "Cricket Men's",
+            "data": [
                 {
                     "id": 1,
                     "date": "2020-08-19 18:00",
@@ -85,8 +99,12 @@
                     "location": "UQ Oval 7",
                     "score": ""
                 }
-            ],
-            "cross_country": [
+            ]
+        },
+        {
+            "id": 5,
+            "sport": "Cross Country Men's",
+            "dataAll": [
                 {
                     "id": 1,
                     "date": "2020-09-12 09:00",
@@ -111,169 +129,12 @@
                     "sixth": "Union",
                     "seventh": "Cromwell"
                 }
-            ],
-            "hockey": [
-                {
-                    "id": 1,
-                    "date": "2020-08-16 08:00",
-                    "versus": "Cromwell",
-                    "location": "UQ Oval 9 South",
-                    "score": "1 - 0"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-08-16 11:50",
-                    "versus": "St Leo's",
-                    "location": "UQ Oval 9 North",
-                    "score": "2 - 2"
-                },
-                {
-                    "id": 3,
-                    "date": "2020-08-22 09:10",
-                    "versus": "St John's",
-                    "location": "UQ Oval 9 South",
-                    "score": "2 - 0"
-                }
-            ],
-            "rugby_league": [
-                {
-                    "id": 1,
-                    "date": "2020-08-16 08:00",
-                    "versus": "Cromwell",
-                    "location": "UQ Oval 9 South",
-                    "score": "1 - 0"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-08-16 11:50",
-                    "versus": "St Leo's",
-                    "location": "UQ Oval 9 North",
-                    "score": "2 - 2"
-                },
-                {
-                    "id": 3,
-                    "date": "2020-08-22 09:10",
-                    "versus": "St John's",
-                    "location": "UQ Oval 9 South",
-                    "score": "2 - 0"
-                }
-            ],
-            "rugby_union": [
-                {
-                    "id": 1,
-                    "date": "2020-08-16 08:00",
-                    "versus": "Cromwell",
-                    "location": "UQ Oval 9 South",
-                    "score": "1 - 0"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-08-16 11:50",
-                    "versus": "St Leo's",
-                    "location": "UQ Oval 9 North",
-                    "score": "2 - 2"
-                },
-                {
-                    "id": 3,
-                    "date": "2020-08-22 09:10",
-                    "versus": "St John's",
-                    "location": "UQ Oval 9 South",
-                    "score": "2 - 0"
-                }
-            ],
-            "soccer": [
-                {
-                    "id": 1,
-                    "date": "2020-08-16 08:00",
-                    "versus": "Cromwell",
-                    "location": "UQ Oval 9 South",
-                    "score": "1 - 0"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-08-16 11:50",
-                    "versus": "St Leo's",
-                    "location": "UQ Oval 9 North",
-                    "score": "2 - 2"
-                },
-                {
-                    "id": 3,
-                    "date": "2020-08-22 09:10",
-                    "versus": "St John's",
-                    "location": "UQ Oval 9 South",
-                    "score": "2 - 0"
-                }
-            ],
-            "table_tennis": [
-                {
-                    "id": 1,
-                    "date": "2020-08-16 08:00",
-                    "versus": "Cromwell",
-                    "location": "UQ Oval 9 South",
-                    "score": "1 - 0"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-08-16 11:50",
-                    "versus": "St Leo's",
-                    "location": "UQ Oval 9 North",
-                    "score": "2 - 2"
-                },
-                {
-                    "id": 3,
-                    "date": "2020-08-22 09:10",
-                    "versus": "St John's",
-                    "location": "UQ Oval 9 South",
-                    "score": "2 - 0"
-                }
-            ],
-            "tennis": [
-                {
-                    "id": 1,
-                    "date": "2020-08-16 08:00",
-                    "versus": "Cromwell",
-                    "location": "UQ Oval 9 South",
-                    "score": "1 - 0"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-08-16 11:50",
-                    "versus": "St Leo's",
-                    "location": "UQ Oval 9 North",
-                    "score": "2 - 2"
-                },
-                {
-                    "id": 3,
-                    "date": "2020-08-22 09:10",
-                    "versus": "St John's",
-                    "location": "UQ Oval 9 South",
-                    "score": "2 - 0"
-                }
-            ],
-            "touch_football": [
-                {
-                    "id": 1,
-                    "date": "2020-08-16 08:00",
-                    "versus": "Cromwell",
-                    "location": "UQ Oval 9 South",
-                    "score": "1 - 0"
-                },
-                {
-                    "id": 2,
-                    "date": "2020-08-16 11:50",
-                    "versus": "St Leo's",
-                    "location": "UQ Oval 9 North",
-                    "score": "2 - 2"
-                },
-                {
-                    "id": 3,
-                    "date": "2020-08-22 09:10",
-                    "versus": "St John's",
-                    "location": "UQ Oval 9 South",
-                    "score": "2 - 0"
-                }
-            ],
-            "waterpolo": [
+            ]
+        },
+        {
+            "id": 6,
+            "sport": "Hockey Men's",
+            "data": [
                 {
                     "id": 1,
                     "date": "2020-08-16 08:00",
@@ -296,6 +157,195 @@
                     "score": "2 - 0"
                 }
             ]
-        }        
+        },
+        {
+            "id": 7,
+            "sport": "Rugby League Men's",
+            "data": [
+                {
+                    "id": 1,
+                    "date": "2020-08-16 08:00",
+                    "versus": "Cromwell",
+                    "location": "UQ Oval 9 South",
+                    "score": "1 - 0"
+                },
+                {
+                    "id": 2,
+                    "date": "2020-08-16 11:50",
+                    "versus": "St Leo's",
+                    "location": "UQ Oval 9 North",
+                    "score": "2 - 2"
+                },
+                {
+                    "id": 3,
+                    "date": "2020-08-22 09:10",
+                    "versus": "St John's",
+                    "location": "UQ Oval 9 South",
+                    "score": "2 - 0"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "sport": "Rugby Union Men's",
+            "data": [
+                {
+                    "id": 1,
+                    "date": "2020-08-16 08:00",
+                    "versus": "Cromwell",
+                    "location": "UQ Oval 9 South",
+                    "score": "1 - 0"
+                },
+                {
+                    "id": 2,
+                    "date": "2020-08-16 11:50",
+                    "versus": "St Leo's",
+                    "location": "UQ Oval 9 North",
+                    "score": "2 - 2"
+                },
+                {
+                    "id": 3,
+                    "date": "2020-08-22 09:10",
+                    "versus": "St John's",
+                    "location": "UQ Oval 9 South",
+                    "score": "2 - 0"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "sport": "Soccer Men's",
+            "data": [
+                {
+                    "id": 1,
+                    "date": "2020-08-16 08:00",
+                    "versus": "Cromwell",
+                    "location": "UQ Oval 9 South",
+                    "score": "1 - 0"
+                },
+                {
+                    "id": 2,
+                    "date": "2020-08-16 11:50",
+                    "versus": "St Leo's",
+                    "location": "UQ Oval 9 North",
+                    "score": "2 - 2"
+                },
+                {
+                    "id": 3,
+                    "date": "2020-08-22 09:10",
+                    "versus": "St John's",
+                    "location": "UQ Oval 9 South",
+                    "score": "2 - 0"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "sport": "Table Tennis Men's",
+            "data": [
+                {
+                    "id": 1,
+                    "date": "2020-08-16 08:00",
+                    "versus": "Cromwell",
+                    "location": "UQ Oval 9 South",
+                    "score": "1 - 0"
+                },
+                {
+                    "id": 2,
+                    "date": "2020-08-16 11:50",
+                    "versus": "St Leo's",
+                    "location": "UQ Oval 9 North",
+                    "score": "2 - 2"
+                },
+                {
+                    "id": 3,
+                    "date": "2020-08-22 09:10",
+                    "versus": "St John's",
+                    "location": "UQ Oval 9 South",
+                    "score": "2 - 0"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "sport": "Tennis Men's",
+            "data": [
+                {
+                    "id": 1,
+                    "date": "2020-08-16 08:00",
+                    "versus": "Cromwell",
+                    "location": "UQ Oval 9 South",
+                    "score": "1 - 0"
+                },
+                {
+                    "id": 2,
+                    "date": "2020-08-16 11:50",
+                    "versus": "St Leo's",
+                    "location": "UQ Oval 9 North",
+                    "score": "2 - 2"
+                },
+                {
+                    "id": 3,
+                    "date": "2020-08-22 09:10",
+                    "versus": "St John's",
+                    "location": "UQ Oval 9 South",
+                    "score": "2 - 0"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "sport": "Touch Football Men's",
+            "data": [
+                {
+                    "id": 1,
+                    "date": "2020-08-16 08:00",
+                    "versus": "Cromwell",
+                    "location": "UQ Oval 9 South",
+                    "score": "1 - 0"
+                },
+                {
+                    "id": 2,
+                    "date": "2020-08-16 11:50",
+                    "versus": "St Leo's",
+                    "location": "UQ Oval 9 North",
+                    "score": "2 - 2"
+                },
+                {
+                    "id": 3,
+                    "date": "2020-08-22 09:10",
+                    "versus": "St John's",
+                    "location": "UQ Oval 9 South",
+                    "score": "2 - 0"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "sport": "Waterpolo Men's",
+            "data": [
+                {
+                    "id": 1,
+                    "date": "2020-08-16 08:00",
+                    "versus": "Cromwell",
+                    "location": "UQ Oval 9 South",
+                    "score": "1 - 0"
+                },
+                {
+                    "id": 2,
+                    "date": "2020-08-16 11:50",
+                    "versus": "St Leo's",
+                    "location": "UQ Oval 9 North",
+                    "score": "2 - 2"
+                },
+                {
+                    "id": 3,
+                    "date": "2020-08-22 09:10",
+                    "versus": "St John's",
+                    "location": "UQ Oval 9 South",
+                    "score": "2 - 0"
+                }
+            ]
+        }
     ]
 }
