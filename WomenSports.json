@@ -37,14 +37,14 @@
                     "date": "2021-05-20 18:00",
                     "versus": "Cromwell",
                     "location": "Oval 1 East (Union Oval)",
-                    "score": ""
+                    "score": "50 - 2"
                 },
                 {
                     "id": 6,
                     "date": "2021-05-20 20:00",
                     "versus": "Emmanuel",
                     "location": "Oval 1 East (Union Oval)",
-                    "score": ""
+                    "score": "5 - 22"
                 }
             ]
         },
@@ -670,35 +670,35 @@
                     "date": "2021-05-15 19:30",
                     "versus": "Union",
                     "location": "Water Polo Court 1",
-                    "score": ""
+                    "score": "8 - 3"
                 },
                 {
                     "id": 4,
                     "date": "2021-05-15 20:30",
                     "versus": "Duchesne",
                     "location": "Water Polo Court 1",
-                    "score": ""
+                    "score": "2 - 6"
                 },
                 {
                     "id": 5,
                     "date": "2021-05-22 19:00",
                     "versus": "Women's",
                     "location": "Water Polo Court 1",
-                    "score": ""
+                    "score": "8 - 2"
                 },
                 {
                     "id": 6,
                     "date": "2021-05-29 18:00",
                     "versus": "Cromwell",
                     "location": "Water Polo Court 1",
-                    "score": ""
+                    "score": "17 - 3"
                 },
                 {
                     "id": 7,
                     "date": "2021-05-29 20:00",
                     "versus": "Grace/IH",
                     "location": "Water Polo Court 1",
-                    "score": ""
+                    "score": "8 - 2"
                 }
             ]
         }
