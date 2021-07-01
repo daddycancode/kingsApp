@@ -23,21 +23,21 @@
                     "date": "2021-05-16 14:30",
                     "versus": "Cromwell",
                     "location": "Oval 2 (Women's Oval)",
-                    "score": ""
+                    "score": "150 - 7"
                 },
                 {
                     "id": 4,
                     "date": "2021-05-20 20:00",
                     "versus": "Emmanuel",
                     "location": "Oval 2 (Women's Oval)",
-                    "score": ""
+                    "score": "51 - 47"
                 },
                 {
                     "id": 5,
                     "date": "2021-05-27 21:00",
                     "versus": "Union",
                     "location": "Oval 2 (Women's Oval)",
-                    "score": ""
+                    "score": "49 - 13"
                 }
             ]
         },
@@ -253,17 +253,17 @@
                 },
                 {
                     "id": 4,
-                    "date": "2021-05-12 18:00",
-                    "versus": "Cromwell",
-                    "location": "Oval 7",
-                    "score": ""
-                },
-                {
-                    "id": 5,
                     "date": "2021-05-21 19:25",
                     "versus": "St Leo's",
                     "location": "Oval 7",
-                    "score": ""
+                    "score": "28 - 12"
+                },
+                {
+                    "id": 5,
+                    "date": "2021-05-28 18:00",
+                    "versus": "Cromwell",
+                    "location": "Oval 7",
+                    "score": "50 - 0"
                 }
             ]
         },
@@ -523,21 +523,21 @@
                     "date": "2021-05-15 18:30",
                     "versus": "Emmanuel",
                     "location": "Water Polo Court 1",
-                    "score": ""
+                    "score": "12 - 2"
                 },
                 {
                     "id": 4,
                     "date": "2021-05-15 20:00",
                     "versus": "St John's",
                     "location": "Water Polo Court 1",
-                    "score": ""
+                    "score": "7 - 4"
                 },
                 {
                     "id": 5,
                     "date": "2021-05-22 19:00",
                     "versus": "Cromwell",
                     "location": "Water Polo Court 2",
-                    "score": ""
+                    "score": "10 - 3"
                 }
             ]
         }
